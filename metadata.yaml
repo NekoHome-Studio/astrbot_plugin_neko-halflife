@@ -17,7 +17,7 @@ desc: >-
   该项在 AstrBot 插件配置页里是官方的模型选取器，不用手抄提供商 ID。
 version: 0.8.0
 author: NekoHome-Studio
-repo: https://github.com/NekoHome-Studio/neko-halflife
+repo: https://github.com/NekoHome-Studio/astrbot_plugin_neko-halflife
 astrbot_version: ">=4.26.7,<5"
 tags:
   - tools
